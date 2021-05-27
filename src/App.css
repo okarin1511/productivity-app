@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #61dafb;
+}
+
+body,
+html,
+#root {
+  height: 100%;
+}
+
+.todo-form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+
+li {
+  text-align: intial;
+}
+
+.okarin {
+  display: flex;
+  color:lightcoral;
+
+}
+
+.taskDone {
+  color: rgb(8, 8, 8);
+  display:ruby;
+  font-size: 20px;
+
+  
+  
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: aquamarine;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(70, 53, 231);
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
