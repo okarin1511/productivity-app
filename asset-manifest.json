@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/productivity-app/static/css/main.e0bbda17.chunk.css",
+    "main.js": "/productivity-app/static/js/main.72557895.chunk.js",
+    "main.js.map": "/productivity-app/static/js/main.72557895.chunk.js.map",
+    "runtime-main.js": "/productivity-app/static/js/runtime-main.f6800892.js",
+    "runtime-main.js.map": "/productivity-app/static/js/runtime-main.f6800892.js.map",
+    "static/js/2.05bf3a3a.chunk.js": "/productivity-app/static/js/2.05bf3a3a.chunk.js",
+    "static/js/2.05bf3a3a.chunk.js.map": "/productivity-app/static/js/2.05bf3a3a.chunk.js.map",
+    "static/js/3.23d122b3.chunk.js": "/productivity-app/static/js/3.23d122b3.chunk.js",
+    "static/js/3.23d122b3.chunk.js.map": "/productivity-app/static/js/3.23d122b3.chunk.js.map",
+    "index.html": "/productivity-app/index.html",
+    "static/css/main.e0bbda17.chunk.css.map": "/productivity-app/static/css/main.e0bbda17.chunk.css.map",
+    "static/js/2.05bf3a3a.chunk.js.LICENSE.txt": "/productivity-app/static/js/2.05bf3a3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6800892.js",
+    "static/js/2.05bf3a3a.chunk.js",
+    "static/css/main.e0bbda17.chunk.css",
+    "static/js/main.72557895.chunk.js"
+  ]
+}
